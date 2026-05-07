@@ -1,2 +1,2 @@
-# B-Ponto
+# BêPonto
 Textos que não pedem desculpas
