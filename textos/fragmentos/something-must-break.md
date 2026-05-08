@@ -1,7 +1,5 @@
 # Something Must Break
 
-<img src="https://raw.githubusercontent.com/drewrossaneis/BePonto/main/IMG_5719.jpeg" width="400"/>
-
 I need to live.  
 I need to feel.  
 
@@ -18,3 +16,5 @@ Something must break.
 Something must break.  
 
 *BêPonto*
+
+<img src="https://raw.githubusercontent.com/drewrossaneis/BePonto/main/IMG_5719_small.jpeg" width="400"/>
