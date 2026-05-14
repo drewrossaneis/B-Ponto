@@ -23,3 +23,5 @@ Perto demais para negar.
 E distante o bastante para nos tocar.
 
 Infelizmente, e aparentemente para sempre, sem um abraço real.
+
+BêPonto
